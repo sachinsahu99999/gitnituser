@@ -9,7 +9,7 @@ public class Welcome {
 		for(int i=1;i<=10;i++)
 			System.out.println(i);
 		
-		System.out.println("mere bhai kaisa h");
+		System.out.println("Hello! sachin");
 	}
 
 }
